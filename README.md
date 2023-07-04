@@ -1,1 +1,1 @@
-my second directory
+as a software engineer, my second directory
